@@ -1,0 +1,4 @@
+Google URL::https://www.google.com
+Folder Path::F:\1. Practiec\0. Ongoing\PaisaApp
+VS Code Path::
+PDF Path::C:\Users\dell\Downloads\Documents\PaisaAppRoadmap.pdf
